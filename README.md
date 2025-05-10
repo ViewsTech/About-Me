@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m **[Views]** — an engineering student passionate about technology, robotics, and creating opportunities where they don’t exist. 
+Hi, I’m **Views** an engineering student passionate about technology, robotics, and creating opportunities where they don’t exist. 
 
 After facing numerous internship rejections from companies worldwide, I decided to turn that experience into something positive and impactful.
 
